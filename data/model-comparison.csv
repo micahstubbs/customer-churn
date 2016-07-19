@@ -1,0 +1,6 @@
+measure,value,modelID
+AUC,0.847345,glm-aaed8e67-2a86-476f-b1ab-b8232c0c553e
+AUC,0.846126,gbm-007328bb-1d09-4dcd-b659-7f58acfa4da4
+AUC,0.837695,deeplearning-ef0ea82a-acf4-4392-9b91-44d583fb826f
+AUC,0.835059,drf-5c77a28d-04e5-46f6-964a-a3b7f80ba1a6
+AUC,0.819140,naivebayes-940f6d45-54e4-41f9-aa34-8562e7f9390f
